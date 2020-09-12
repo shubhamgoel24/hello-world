@@ -1,3 +1,2 @@
 # hello-world
-trial repository
-hello. this is dbsgj
+I was learning how to use git repositeries. Nothing special here...
